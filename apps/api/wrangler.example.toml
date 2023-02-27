@@ -1,0 +1,8 @@
+name = ""
+compatibility_date = "2023-01-01"
+main = "src/index.ts"
+[[ d1_databases ]]
+binding = "CHILEADOPTA"
+database_name = "chileadoptadev"
+database_id = "<YOUR-PRODUCTION-DATABASE-ID-HERE>"
+preview_database_id = "<YOUR-PREVIEW-DATABASE-ID-HERE>"
